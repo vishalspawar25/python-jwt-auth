@@ -1,6 +1,5 @@
 # python-jwt-auth
-implementation of JWT bearer token in python using fastapi 
-I have used fast api with JWT authentication.
+Implementation of JWT  bearer token authentication in python using fastapi .
 ## install all dependencies in requirements.txt file using pip cmd and run app under src folder.
 ```uvicorn main:app --host localhost --port 8000 --reload```
 
